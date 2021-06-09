@@ -1,6 +1,23 @@
 # Software-Engineering-I-Final-Project
 This is a final group project for my Software Engineering I class in which we analyze and create a report discussing the different topics of the Agile Methodology.
 
+Software Engineering I Team Final Website Project
+
+Description:\
+● Group project that aimed at applying Agile methodologies when developing app software in the real world.\
+● Programmed in Ruby.\
+● Project consisted of professional modern development ideas such as unit testing.\
+● Some more additional skills shown in this project was continuous integration with codemagic and integration testing
+locally.\
+
+Project Supervisor/Mentor:\
+Eric Michael Martinez
+
+Developers for this project:\
+Michael Morales\
+Rodrigo Palacios\
+Juan Tabarez
+
 Our final report analyzing this project is shown here: https://docs.google.com/document/d/1SxOoqAuh2rFbsnWsyRllPSOfNrJUkuAYR2yjSTv-yRQ/edit?usp=sharing
 
 License:
